@@ -31,5 +31,3 @@ export const Button = (props: ButtonProps) => {
     </button>
   )
 }
-
-<Button variant="primary" size="md" onClick={()=>{}} text={"asd"}/>
